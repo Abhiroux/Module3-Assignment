@@ -1,0 +1,40 @@
+
+body{
+    font-size: 16px;
+    color: black;
+    font-family: 'Lora', serif;
+}
+
+.navbar-brand h1{
+    text-transform: uppercase;
+     font-weight: bold;
+     text-shadow: 1px 1px 1px #222;
+     margin-top: 0;
+     margin-bottom: 0;
+     line-height: .75;
+     font-family: 'Lora', serif;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    /* border-color: ; */
+    border: 0;
+}
+#header-nav{
+    background-color: rgb(169, 235, 83);
+}
+
+.navbar-brand a{
+    text-decoration: none;
+}
+
+
+#nav-list{
+    font-size: 1.8em;
+}
+
+#box{
+    background-color: rgb(143, 127, 127);
+    text-align: justify;
+}
+#box h4{
+    font-weight: bolder;
+}
